@@ -2,7 +2,7 @@
 
 ## Algorithms
 
-- Matrix Multiplication: MatrixMult.scala
+- Matrix Multiplication: [MatrixMult.scala](https://github.com/everpeace/scaladingla/blob/master/MatrixMult.scala)
 - Matrix Transposision: comming soon
 - Matrix Inversion: comming soon
 - and more...
@@ -15,7 +15,7 @@
 
 ## License
 
-All codes licensed under MIT License. See LICENSE.txt for further details.
+All codes licensed under MIT License. See [LICENSE.txt](https://github.com/everpeace/scaladingla/blob/master/LICENCE.txt) for further details.
 
 ## Copyright
 
