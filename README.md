@@ -2,7 +2,7 @@
 
 ## Algorithms
 
-- Matrix Multiplication: [MatrixMult.scala](https://github.com/everpeace/scaldingla/blob/master/MatrixMult.scal://github.com/everpeace/scaldingla/blob/master/MatrixMult.scala)
+- Matrix Multiplication: [MatrixMult.scala](https://github.com/everpeace/scaldingla/blob/master/MatrixMult.scala)
 - Matrix Transposision: comming soon
 - Matrix Inversion: comming soon
 - and more...
